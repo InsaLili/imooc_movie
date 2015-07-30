@@ -1,0 +1,32 @@
+{
+  "name": "imooc",
+  "version": "0.0.1",
+  "description": "imooc movie",
+  "main": "app.js",
+  "dependencies": {
+    "bower": "^1.4.1",
+    "express": "^4.13.1",
+    "body-parser": "^1.13.2",
+    "mongoose": "^4.1.0",
+    "moment": "^2.10.6",
+    "underscore": "^1.8.3",
+    "jade": "^1.11.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/InsaLili/imooc_movie.git"
+  },
+  "keywords": [
+    "imooc"
+  ],
+  "author": "Lili",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/InsaLili/imooc_movie/issues"
+  },
+  "homepage": "https://github.com/InsaLili/imooc_movie#readme"
+}
